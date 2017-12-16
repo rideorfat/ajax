@@ -1,0 +1,2 @@
+class PostScore < ApplicationRecord
+end
